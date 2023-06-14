@@ -1,8 +1,8 @@
 def connect():
     import network
  
-    ssid = "HomeNetwork"
-    password =  "qwerty0112358"
+    ssid = "XXXXXXX"
+    password =  "XXXXXXXX"
  
     station = network.WLAN(network.STA_IF)
  
